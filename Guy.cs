@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Guys_and_Cash
+namespace Casino
 {
     internal class Guy
     {
